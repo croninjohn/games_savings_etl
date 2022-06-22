@@ -1,0 +1,4 @@
+SHELL=/bin/bash
+HOME=/
+0 1 * * * PYTHONPATH=/code/src /usr/local/bin/python /code/src/api_etl.py
+
