@@ -1,8 +1,8 @@
 # Recent Gaming Deals Tracker
 
-This is a data pipeline that pulls recent gaming bargains from [Cheap Shark](https://www.cheapshark.com/) via their API. The data ingested in turn supports [this interactive dashboard](http://18.212.173.53:3000/public/dashboard/cda4da01-2386-433a-b4ce-c3ae2ec5ee75).
+This is a data pipeline that pulls recent gaming bargains from [Cheap Shark](https://www.cheapshark.com/) via their API. The data ingested in turn supports [this interactive dashboard](http://18.214.233.99:3000/public/dashboard/fe0614d2-c8a3-4f8c-a1a9-a694c85055cf).
 
-[![dashboard_preview](images/dashboard_preview.png)](http://18.212.173.53:3000/public/dashboard/cda4da01-2386-433a-b4ce-c3ae2ec5ee75)
+[![dashboard_preview](images/dashboard_preview.png)](http://18.214.233.99:3000/public/dashboard/fe0614d2-c8a3-4f8c-a1a9-a694c85055cf)
 *okay, okay, this is just a screenshot. But it's also a link to the live dashboard!*
 
 ## Architecture
