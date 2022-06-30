@@ -15,9 +15,11 @@ services:
       ports:
         - "3000:3000"
       volumes:
-        - ~/metabase-data:/metabase-data
+        - mb_data:/data
       environment:
-        - "MB_DB_FILE=/metabase-data/metabase.db"
+       - "MB_DB_FILE=data/metabase.db"
+volumes:
+    mb_data:
 
 
 
