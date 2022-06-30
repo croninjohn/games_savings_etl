@@ -17,7 +17,7 @@ All of the computing is performed within a small EC2 instance, while the warehou
 
 As I get the time, I plan to return to this project and make some of the following additions:
 * Automate data ingestion, transformation, and clean-up with Airflow.
-~~* Switch the dashboard's metadata storage from bind mount to Docker volume.~~
+* ~~ Switch the dashboard's metadata storage from bind mount to Docker volume.~~
 * Incorporate further endpoints (from this source or others) to expand functionality.
 * Possibly re-work the AWS services used here (implement ECS for Docker, switch to Elastic Beanstalk for the dashboard, etc.).
 
